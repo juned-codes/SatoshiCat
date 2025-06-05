@@ -1,0 +1,18 @@
+[24-Jan-2025 17:47:57 UTC] PHP Fatal error:  Uncaught Error: Attempt to modify property "option" on null in /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php:911
+Stack trace:
+#0 /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php(723): phpFastCache->option()
+#1 /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php(43): phpFastCache->__construct()
+#2 /home/satoshic/public_html/DIGI/FEY/script/ini.php(62): phpFastCache()
+#3 /home/satoshic/public_html/DIGI/FEY/admin/index.php(6): include('/home/satoshic/...')
+#4 {main}
+  thrown in /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php on line 911
+[24-Jan-2025 17:47:59 UTC] PHP Fatal error:  Uncaught Error: Attempt to modify property "option" on null in /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php:911
+Stack trace:
+#0 /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php(723): phpFastCache->option()
+#1 /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php(43): phpFastCache->__construct()
+#2 /home/satoshic/public_html/DIGI/FEY/script/ini.php(62): phpFastCache()
+#3 /home/satoshic/public_html/DIGI/FEY/admin/index.php(6): include('/home/satoshic/...')
+#4 {main}
+  thrown in /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php on line 911
+[24-Jan-2025 17:50:27 UTC] PHP Warning:  Creating default object from empty value in /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php on line 911
+[24-Jan-2025 17:50:52 UTC] PHP Warning:  Creating default object from empty value in /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php on line 911

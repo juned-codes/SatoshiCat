@@ -1,0 +1,23 @@
+[24-Jan-2025 17:56:15 UTC] PHP Fatal error:  Uncaught Error: Class "PDO" not found in /home/satoshic/public_html/Auth/database_connection.php:6
+Stack trace:
+#0 /home/satoshic/public_html/Auth/login_verify.php(5): include()
+#1 {main}
+  thrown in /home/satoshic/public_html/Auth/database_connection.php on line 6
+[24-Jan-2025 17:56:32 UTC] PHP Fatal error:  Uncaught Error: Class "PDO" not found in /home/satoshic/public_html/Auth/database_connection.php:6
+Stack trace:
+#0 /home/satoshic/public_html/Auth/login_verify.php(5): include()
+#1 {main}
+  thrown in /home/satoshic/public_html/Auth/database_connection.php on line 6
+[24-Jan-2025 17:59:30 UTC] PHP Fatal error:  Uncaught Error: Class "PDO" not found in /home/satoshic/public_html/Auth/database_connection.php:6
+Stack trace:
+#0 /home/satoshic/public_html/Auth/login_verify.php(5): include()
+#1 {main}
+  thrown in /home/satoshic/public_html/Auth/database_connection.php on line 6
+[24-Jan-2025 18:04:14 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Failed to connect to server in /home/satoshic/public_html/Auth/PHPMailer/src/PHPMailer.php:2233
+Stack trace:
+#0 /home/satoshic/public_html/Auth/PHPMailer/src/PHPMailer.php(2019): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/satoshic/public_html/Auth/PHPMailer/src/PHPMailer.php(1678): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Fri, 24 J...', '\r\n            <...')
+#2 /home/satoshic/public_html/Auth/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/satoshic/public_html/Auth/index.php(144): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/satoshic/public_html/Auth/PHPMailer/src/PHPMailer.php on line 2233
