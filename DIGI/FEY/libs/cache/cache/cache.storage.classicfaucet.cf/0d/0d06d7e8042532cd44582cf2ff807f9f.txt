@@ -1,0 +1,33 @@
+a:4:{s:5:"value";a:34:{s:4:"name";s:14:"Classic Faucet";s:6:"domain";s:43:"https://classicfaucet.cf/DIGI/FEY/index.php";s:11:"description";s:45:"Earn Unstoppable Crypto With Instant Payment.";s:11:"microwallet";s:9:"faucetpay";s:7:"api_key";s:40:"f8fc9e1a457f6b96d28136b837ea7c0748f7aabf";s:10:"user_token";s:0:"";s:8:"currency";s:3:"FEY";s:5:"timer";s:1:"1";s:8:"referral";s:2:"25";s:6:"reward";s:6:"0.0007";s:7:"balance";s:1:"0";s:10:"max_claims";s:2:"50";s:15:"primary_captcha";s:9:"recaptcha";s:17:"secondary_captcha";s:0:"";s:15:"solvemedia_keys";s:56:"{"challenge_key":"","verification_key":"","hash_key":""}";s:14:"recaptcha_keys";s:111:"{"site_key":"6LeBv7siAAAAAG3dSVovNJoSJ4laq4RY4nlFmkKV","secret_key":"6LeBv7siAAAAAGvXtkcez0VSPaNhqCCYIILUCO-g"}";s:15:"shortlink_timer";s:1:"5";s:9:"iphub_api";s:0:"";s:14:"proxycheck_api";s:0:"";s:15:"disable_balance";s:1:"Y";s:15:"disable_antibot";s:0:"";s:15:"disable_iframes";s:0:"";s:7:"top_ads";s:0:"";s:8:"left_ads";s:483:"<!-- BMFAds.com - Ad Display Code -->
+<div id="adm-container-8424"></div><script data-cfasync="false" async type="text/javascript" src="//bmfads.com/app/display/items.php?8424&3889&300&250&4&0&7"></script>
+<!-- BMFAds.com - Ad Display Code -->
+<br>
+<!-- Adzoc - Ad Display Code -->
+<div id="adm-container-1684"></div><script data-cfasync="false" async type="text/javascript" src="//adzoc.com/display/items.php?1684&1206&300&250&4&0&0"></script>
+<!-- Adzoc - Ad Display Code -->";s:10:"middle_ads";s:76:"<script type="text/javascript" src="https://adhitzads.com/1178379"></script>";s:9:"right_ads";s:0:"";s:10:"bottom_ads";s:231:"<!-- Adzoc - Ad Display Code -->
+<div id="adm-container-1682"></div><script data-cfasync="false" async type="text/javascript" src="//adzoc.com/display/items.php?1682&1206&728&90&4&0&0"></script>
+<!-- Adzoc - Ad Display Code -->
+";s:8:"paid_box";s:0:"";s:5:"theme";s:6:"cyborg";s:13:"antibot_theme";s:4:"dark";s:3:"css";s:0:"";s:8:"navlinks";s:2739:"<div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+<li class="nav-item dropdown">
+<a class="nav-link active dropdown-toggle" aria-current="page" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+Faucets
+</a>
+<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+<li><a class="dropdown-item" href="https://classicfaucet.cf/DIGI/BTC/"><img src="images/bitcoin.png" alt width="20" class="d-inline-block align-text-top"> Bitcoin Faucet</a></li>
+<li><a class="dropdown-item" href="https://classicfaucet.cf/DIGI/DOGE/"><img src="images/dogecoin.png" alt width="20" class="d-inline-block align-text-top"> Dogecoin Faucet</a></li>
+<li><a class="dropdown-item" href="https://classicfaucet.cf/DIGI/LTC/"><img src="images/litecoin.png" alt width="20" class="d-inline-block align-text-top"> Litecoin Faucet</a></li>
+<li><a class="dropdown-item" href="https://classicfaucet.cf/DIGI/TRX/"><img src="images/tron.png" alt width="20" class="d-inline-block align-text-top"> Tron Faucet</a></li>
+<li><a class="dropdown-item" href="https://classicfaucet.cf/DIGI/BNB/"><img src="images/binance.png" alt width="20" class="d-inline-block align-text-top"> Binance Faucet</a></li>
+<li><a class="dropdown-item" href="https://classicfaucet.cf/DIGI/SOL/"><img src="images/solana.png" alt width="20" class="d-inline-block align-text-top"> Solana Faucet</a></li>
+<li><a class="dropdown-item" href="https://classicfaucet.cf/DIGI/DASH/"><img src="images/dash.png" alt width="20" class="d-inline-block align-text-top"> Dash Faucet</a></li>
+<li><a class="dropdown-item" href="https://classicfaucet.cf/DIGI/USDT/"><img src="images/tether.png" alt width="20" class="d-inline-block align-text-top"> Usdt Faucet</a></li>
+<li><a class="dropdown-item" href="https://classicfaucet.cf/DIGI/ZEC/"><img src="images/zcash.png" alt width="20" class="d-inline-block align-text-top"> Zcash Faucet</a></li>
+<li><a class="dropdown-item" href="https://classicfaucet.cf/DIGI/DGB/"><img src="images/digibyte.png" alt width="20" class="d-inline-block align-text-top"> DigiByte Faucet</a></li>
+<li><a class="dropdown-item" href="https://classicfaucet.cf/DIGI/ETH/"><img src="images/ethereum.png" alt width="20" class="d-inline-block align-text-top"> Ethereum Faucet</a></li>
+<li><a class="dropdown-item" href="https://classicfaucet.cf/DIGI/BCH/"><img src="images/bitcoin-cash.png" alt width="20" class="d-inline-block align-text-top"> Bitcoin-Cash Faucet</a></li>
+<li><a class="dropdown-item" href="https://classicfaucet.cf/DIGI/FEY/"><img src="images/feyorra.png" alt width="20" class="d-inline-block align-text-top"> Feyorra Faucet</a></li>
+</ul>
+</li>
+</div>
+";s:10:"shortlinks";s:0:"";s:7:"version";s:1:"3";}s:10:"write_time";s:10:"1671194807";s:10:"expired_in";i:86400;s:12:"expired_time";i:1671281207;}

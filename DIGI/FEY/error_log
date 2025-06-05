@@ -1,0 +1,146 @@
+[24-Jan-2025 17:45:39 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 17:45:39 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): Failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 17:45:39 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 17:45:39 UTC] PHP Fatal error:  Uncaught Error: Attempt to modify property "option" on null in /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php:911
+Stack trace:
+#0 /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php(723): phpFastCache->option()
+#1 /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php(43): phpFastCache->__construct()
+#2 /home/satoshic/public_html/DIGI/FEY/script/ini.php(62): phpFastCache()
+#3 /home/satoshic/public_html/DIGI/FEY/index.php(29): include('/home/satoshic/...')
+#4 {main}
+  thrown in /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php on line 911
+[24-Jan-2025 17:45:42 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 17:45:42 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): Failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 17:45:42 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 17:45:42 UTC] PHP Fatal error:  Uncaught Error: Attempt to modify property "option" on null in /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php:911
+Stack trace:
+#0 /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php(723): phpFastCache->option()
+#1 /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php(43): phpFastCache->__construct()
+#2 /home/satoshic/public_html/DIGI/FEY/script/ini.php(62): phpFastCache()
+#3 /home/satoshic/public_html/DIGI/FEY/index.php(29): include('/home/satoshic/...')
+#4 {main}
+  thrown in /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php on line 911
+[24-Jan-2025 17:45:42 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 17:45:42 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): Failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 17:45:42 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 17:45:42 UTC] PHP Fatal error:  Uncaught Error: Attempt to modify property "option" on null in /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php:911
+Stack trace:
+#0 /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php(723): phpFastCache->option()
+#1 /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php(43): phpFastCache->__construct()
+#2 /home/satoshic/public_html/DIGI/FEY/script/ini.php(62): phpFastCache()
+#3 /home/satoshic/public_html/DIGI/FEY/index.php(29): include('/home/satoshic/...')
+#4 {main}
+  thrown in /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php on line 911
+[24-Jan-2025 17:45:43 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 17:45:43 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): Failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 17:45:43 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 17:45:43 UTC] PHP Fatal error:  Uncaught Error: Attempt to modify property "option" on null in /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php:911
+Stack trace:
+#0 /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php(723): phpFastCache->option()
+#1 /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php(43): phpFastCache->__construct()
+#2 /home/satoshic/public_html/DIGI/FEY/script/ini.php(62): phpFastCache()
+#3 /home/satoshic/public_html/DIGI/FEY/index.php(29): include('/home/satoshic/...')
+#4 {main}
+  thrown in /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php on line 911
+[24-Jan-2025 17:45:43 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 17:45:43 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): Failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 17:45:43 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 17:45:43 UTC] PHP Fatal error:  Uncaught Error: Attempt to modify property "option" on null in /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php:911
+Stack trace:
+#0 /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php(723): phpFastCache->option()
+#1 /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php(43): phpFastCache->__construct()
+#2 /home/satoshic/public_html/DIGI/FEY/script/ini.php(62): phpFastCache()
+#3 /home/satoshic/public_html/DIGI/FEY/index.php(29): include('/home/satoshic/...')
+#4 {main}
+  thrown in /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php on line 911
+[24-Jan-2025 17:45:43 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 17:45:43 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): Failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 17:45:43 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 17:45:43 UTC] PHP Fatal error:  Uncaught Error: Attempt to modify property "option" on null in /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php:911
+Stack trace:
+#0 /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php(723): phpFastCache->option()
+#1 /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php(43): phpFastCache->__construct()
+#2 /home/satoshic/public_html/DIGI/FEY/script/ini.php(62): phpFastCache()
+#3 /home/satoshic/public_html/DIGI/FEY/index.php(29): include('/home/satoshic/...')
+#4 {main}
+  thrown in /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php on line 911
+[24-Jan-2025 17:50:49 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 17:50:49 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 17:50:49 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 17:50:49 UTC] PHP Warning:  Creating default object from empty value in /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php on line 911
+[24-Jan-2025 17:52:06 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 17:52:06 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 17:52:06 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 17:52:06 UTC] PHP Warning:  Creating default object from empty value in /home/satoshic/public_html/DIGI/FEY/libs/cache/phpfastcache.php on line 911
+[24-Jan-2025 17:53:29 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 17:53:29 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 17:53:29 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 17:54:31 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 17:54:31 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 17:54:31 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 18:00:12 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 18:00:12 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 18:00:12 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 18:00:30 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 18:00:30 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 18:00:30 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 18:03:37 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 18:03:37 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 18:03:37 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 18:03:42 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 18:03:42 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 18:03:42 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 18:15:16 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 18:15:16 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[24-Jan-2025 18:15:16 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[25-Jan-2025 06:38:15 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[25-Jan-2025 06:38:15 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[25-Jan-2025 06:38:15 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[25-Jan-2025 06:39:53 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[25-Jan-2025 06:39:53 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[25-Jan-2025 06:39:53 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[25-Jan-2025 06:41:01 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[25-Jan-2025 06:41:01 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[25-Jan-2025 06:41:01 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[25-Jan-2025 06:43:02 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[25-Jan-2025 06:43:02 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[25-Jan-2025 06:43:02 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[25-Jan-2025 06:45:39 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[25-Jan-2025 06:45:39 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[25-Jan-2025 06:45:39 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[25-Jan-2025 06:46:03 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[25-Jan-2025 06:46:03 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[25-Jan-2025 06:46:03 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[25-Jan-2025 06:58:59 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[25-Jan-2025 06:58:59 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[25-Jan-2025 06:58:59 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[25-Jan-2025 06:59:13 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[25-Jan-2025 06:59:13 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[25-Jan-2025 06:59:13 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[26-Jan-2025 08:58:04 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[26-Jan-2025 08:58:04 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[26-Jan-2025 08:58:04 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[26-Jan-2025 08:58:46 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[26-Jan-2025 08:58:46 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[26-Jan-2025 08:58:46 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[26-Jan-2025 09:00:21 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[26-Jan-2025 09:00:21 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[26-Jan-2025 09:00:21 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[26-Jan-2025 14:18:04 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[26-Jan-2025 14:18:04 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[26-Jan-2025 14:18:04 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[26-Jan-2025 14:18:24 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[26-Jan-2025 14:18:24 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[26-Jan-2025 14:18:24 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[26-Jan-2025 14:19:42 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[26-Jan-2025 14:19:42 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[26-Jan-2025 14:19:42 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[26-Jan-2025 15:56:11 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[26-Jan-2025 15:56:11 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[26-Jan-2025 15:56:11 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[26-Jan-2025 19:58:29 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[26-Jan-2025 19:58:29 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[26-Jan-2025 19:58:29 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[27-Jan-2025 05:50:56 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[27-Jan-2025 05:50:56 UTC] PHP Warning:  include(https://satoshicat.org/Auth/database_connection.php): failed to open stream: no suitable wrapper could be found in /home/satoshic/public_html/DIGI/FEY/index.php on line 13
+[27-Jan-2025 05:50:56 UTC] PHP Warning:  include(): Failed opening 'https://satoshicat.org/Auth/database_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/satoshic/public_html/DIGI/FEY/index.php on line 13

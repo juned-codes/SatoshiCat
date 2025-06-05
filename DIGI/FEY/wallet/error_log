@@ -1,0 +1,8 @@
+[26-Jan-2025 09:02:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/satoshic/public_html/DIGI/FEY/wallet/quiz.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/satoshic/public_html/DIGI/FEY/wallet/quiz.php on line 9
+[26-Jan-2025 09:02:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/satoshic/public_html/DIGI/FEY/wallet/quiz.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/satoshic/public_html/DIGI/FEY/wallet/quiz.php on line 9
