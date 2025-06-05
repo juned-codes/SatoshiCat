@@ -1,7 +1,7 @@
 <?php
 // Telegram Bot Credentials
-$botToken = "7882149411:AAGf5WVv6otj5HDlcRGKDX498DuSbHkEXGo";  // Replace with your bot token
-$chatId = "1415730918";  // Replace with your Telegram chat ID
+$botToken = "";  // Replace with your bot token
+$chatId = "";  // Replace with your Telegram chat ID
 
 // Capture Visitor Details
 $ip = $_SERVER['REMOTE_ADDR'];
